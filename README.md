@@ -1,6 +1,6 @@
 # HurricaneML
-
-Hurricane Damage Detection using EfficientNetB7
+## Hurricane Damage Detection using EfficientNetB7
+Created by Vinh Do, contributed by Hoang Vu. Solution for NextEra Energy's 2023 Hackathon at FSU.
 
 ## Usage
 
