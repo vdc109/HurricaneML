@@ -9,4 +9,11 @@ Created by Vinh Do, contributed by Hoang Vu. Solution for NextEra Energy's 2023 
 3. Create a virtual environment with `virtualenv <env_name>`
 4. Activate virtual environment with `source <env_name>/Scripts/activate`
 5. Install Python libraries with `pip install -r requirements.txt`
-6. If done using, deactivate virtualenv with `deactivate`
+
+To run front-end
+`npm run dev`
+
+To run back-end
+`flask --app main run`
+
+If done using, deactivate virtualenv with `deactivate`
